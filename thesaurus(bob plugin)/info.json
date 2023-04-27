@@ -1,0 +1,9 @@
+{
+  "identifier": "thesaurus.paraphrase.tool",
+  "version": "0.1.2",
+  "category": "translate",
+  "name": "thesaurus转译插件",
+  "summary": "这是一个用于测试的插件。",
+  "icon": "",
+  "author": "dylanmengzhou"
+}
